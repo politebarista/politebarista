@@ -1,7 +1,7 @@
 ## Hi there :wave:
 
 I am a software developer using flutter.
-- <img src="https://avatars.githubusercontent.com/u/6791372?s=200&v=4" height=15 /> I'm currently working at [Actonica](https://github.com/actonica) as an Flutter developer.
+- <img src="https://lh6.googleusercontent.com/-443NtimBM2I/AAAAAAAAAAI/AAAAAAAAAAA/ABTKtUguU2Y/s44-p-k-no-ns-nd/photo.jpg" height=15 /> I'm currently working at [WaveAccess](https://github.com/waveaccess) as an Flutter developer.
 - :card_file_box: I'm currently studying at Siberian State Industrial University as a database administrator.
 - :iphone: In my spare time I study mobile development technologies.
 
